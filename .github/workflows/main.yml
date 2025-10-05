@@ -1,4 +1,4 @@
- A simple workflow to demonstrate a custom step name.
+# A simple workflow to demonstrate a custom step name.
 name: CI
 
 # Controls when the workflow will run
@@ -25,3 +25,4 @@ jobs:
 
       - name: A second step
         run: echo "Hello, world!"
+
